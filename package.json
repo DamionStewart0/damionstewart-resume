@@ -1,0 +1,18 @@
+{
+  "name": "damionstewart0-resume",
+  "version": "1.0.0",
+  "description": "Projects and work history",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "damionstewart0"
+  },
+  "author": "Damion Stewart",
+  "license": "ISC",
+  "bin": {
+    "resume-me": "./index.js"
+  }
+}
